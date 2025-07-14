@@ -4,7 +4,7 @@
 💻 Focado em desenvolvimento Full Stack com Node.js, JavaScript, HTML, CSS e Git  
 🚀 Em busca da minha primeira oportunidade na área de tecnologia
 
-## 🛠️ Tecnologias que estou aprendendo:
+## 🛠️ Tecnologias
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
