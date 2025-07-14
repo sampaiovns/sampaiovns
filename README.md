@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinicius Sampaio 👋
+# Olá, eu sou o Vinícius Sampaio 👋
 
 🎓 Estudante de Ciência da Computação  
 💻 Focado em desenvolvimento Full Stack com Node.js, JavaScript, HTML, CSS e Git  
